@@ -52,7 +52,7 @@ public class Screen extends JFrame {
 
         }
         catch (NumberFormatException e){
-            JOptionPane.showMessageDialog(null,"ERRO","SÃO ACEITOS APENAS NÚMEROS", JOptionPane.ERROR_MESSAGE);
+            JOptionPane.showMessageDialog(null,"SÃO ACEITOS APENAS NÚMEROS","ERRO", JOptionPane.ERROR_MESSAGE);
         }
         catch (IllegalArgumentException e){
             JOptionPane.showMessageDialog(null, "VALOR A SER CONVERTIDO TEM QUE SER MAIOR QUE 0", "ERRO", JOptionPane.ERROR_MESSAGE);
