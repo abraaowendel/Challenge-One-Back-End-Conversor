@@ -11,3 +11,8 @@
     por dólar para a moeda do país.
     Foi utilizada a biblioteca Swing e a API de Cotações de Moedas - AwesomeAPI;
 </p>
+
+<h2>Dependecias</h2>
+<p>
+    O projeto tem como depedencia o GSON.
+</p>
